@@ -1,2 +1,9 @@
 # mask_detection
- Facial mask detection using openCV and TensorFlow
+ Facial mask detection using openCV and TensorFlow2.0
+ 
+ Mask Detector built using openCV and TensorFlow. Credits:  kaggle.com/dohunkim
+ 
+ Model trained with 600+ images to achieve higher accuracy.
+ 
+
+![](mask.gif)
